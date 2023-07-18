@@ -1,0 +1,51 @@
+('C:\\Users\\andya\\Desktop\\Expense '
+ 'Calculator\\Github\\expensecalculator\\build\\A1_2_1\\A1_2_1.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\andya\\Desktop\\Expense '
+   'Calculator\\Github\\expensecalculator\\build\\A1_2_1\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\andya\\Desktop\\Expense '
+   'Calculator\\Github\\expensecalculator\\build\\A1_2_1\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\andya\\Desktop\\Expense '
+   'Calculator\\Github\\expensecalculator\\build\\A1_2_1\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\andya\\Desktop\\Expense '
+   'Calculator\\Github\\expensecalculator\\build\\A1_2_1\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\andya\\Desktop\\Expense '
+   'Calculator\\Github\\expensecalculator\\build\\A1_2_1\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\andya\\Desktop\\Expense '
+   'Calculator\\Github\\expensecalculator\\build\\A1_2_1\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\andya\\Desktop\\pythonProject1\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\andya\\Desktop\\pythonProject1\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('A1_2_1',
+   'C:\\Users\\andya\\Desktop\\Expense '
+   'Calculator\\Github\\expensecalculator\\A1_2_1.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
